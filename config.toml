@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { email = {href="mailto:chy036@ucsd.edu", text="chy036@ucsd.edu" }},
     { link = {href="cv/CV.pdf", text="CV" } },
+    { link = {href="http://varys.ucsd.edu/", text="SEELab" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
